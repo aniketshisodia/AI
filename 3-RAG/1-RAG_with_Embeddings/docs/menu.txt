@@ -1,0 +1,12 @@
+BEVERAGES:
+- Latte: $4.50
+- Cappuccino: $4.50
+- Americano: $3.50
+- Honey Lavender Latte: $5.50
+- Caramel Brulée Cold Brew: $5.50
+
+FOOD:
+- Croissant: $3.50
+- Muffin: $3.00
+- Avocado Toast: $7.00
+- Quiche: $8.00

@@ -1,0 +1,16 @@
+{
+  "session_id": "0bd0c224",
+  "created": "2026-04-17 15:36:19",
+  "history": [
+    {
+      "timestamp": "15:35:08",
+      "user": "hello bro , how are you whats your cafe name ?",
+      "bot": "Hi there! Welcome to Brew Haven Cafe! We\u2019re doing great today. Our cafe name is Brew Haven Cafe. \ud83d\ude0a"
+    },
+    {
+      "timestamp": "15:36:19",
+      "user": "suggest me to buy something",
+      "bot": "Hi there! Welcome back to Brew Haven Cafe! \ud83d\ude0a \n\nOur croissants are really popular \u2013 they\u2019re $3.50. Would you like to try one? Or perhaps a latte for $4.50?"
+    }
+  ]
+}
