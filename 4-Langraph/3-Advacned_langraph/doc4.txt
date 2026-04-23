@@ -1,0 +1,5 @@
+CityTransit has a phased rollout plan across five zones. Zone A and Zone B are complete, Zone C is in controlled rollout, and Zones D-E are planned for the next fiscal year.
+
+The approved budget is 42 million dollars over three years. Budget distribution is 45% platform engineering, 30% operations training and change management, 15% data governance and security, and 10% public communication.
+
+The main delivery risks are model drift during festival seasons, union concerns about shift predictability, and vendor lock-in for managed streaming infrastructure. Risk mitigation includes monthly model recalibration, joint union workshops, and multi-cloud export tooling.

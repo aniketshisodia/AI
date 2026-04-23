@@ -17,7 +17,7 @@ def generate_answer(state: State) -> State:
     """Use LLM to generate answer"""
     question = state["question"]
     attempts = state["attempts"]
-    
+     
     print(f"🤔 Attempt {attempts}: Generating answer for: {question}")
     
     # Call Ollama (using tiny model for speed)

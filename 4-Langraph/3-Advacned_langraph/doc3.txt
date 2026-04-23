@@ -1,0 +1,5 @@
+The operating architecture uses three cloud services: a streaming ingestion layer, a feature engineering service, and a decision API for dispatch recommendations. The dispatch recommendation service has a target latency of less than 800 milliseconds.
+
+Operations teams receive suggestions, but final dispatch decisions stay human-in-the-loop. Drivers are notified through the existing fleet tablet system, so no new hardware deployment was required.
+
+The technical reliability objective is 99.5% monthly uptime, and a fallback static timetable is automatically activated if the decision API is unavailable for more than 90 seconds.

@@ -1,0 +1,5 @@
+Modern healthcare is being transformed by digital technologies. Telemedicine allows patients to consult with doctors remotely via video calls, reducing travel time and improving access to care, especially in rural areas. During the COVID-19 pandemic, telemedicine usage increased by over 6000% in some regions.
+
+Electronic Health Records (EHR) have replaced paper charts in most hospitals. EHR systems provide instant access to patient medical history, medications, allergies, and test results. This improves care coordination, reduces medical errors, and enables data-driven research.
+
+AI-powered diagnostic tools can now detect diseases from medical images with accuracy matching or exceeding human experts. For example, AI algorithms can identify diabetic retinopathy from retinal scans, detect breast cancer in mammograms, and spot lung nodules in CT scans. Wearable devices like smartwatches monitor heart rate, sleep patterns, and activity levels continuously.

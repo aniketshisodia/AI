@@ -1,0 +1,5 @@
+CityTransit is a smart public transport modernization program launched in 2025. The project goal is to reduce average commuter waiting time from 14 minutes to under 9 minutes by using AI-powered demand forecasting.
+
+The project combines passenger tap-in data, weather patterns, holiday calendars, and event schedules. A forecasting model runs every 30 minutes and predicts stop-level demand for the next 6 hours.
+
+In the first pilot corridor, peak-hour delays dropped by 27% and passenger satisfaction scores increased from 3.1 to 4.2 out of 5 within four months.

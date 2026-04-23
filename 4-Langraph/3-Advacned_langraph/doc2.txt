@@ -1,0 +1,5 @@
+CityTransit's data governance policy uses a layered privacy design. Raw card IDs are tokenized before entering analytics pipelines. Personally identifiable information is stored in a separate encrypted vault with strict access controls.
+
+The analytics lake keeps only pseudonymized trip records and aggregates older than 13 months are retained. Real-time dashboards use privacy-safe minimum group thresholds to prevent re-identification.
+
+An internal audit in Q1 2026 reported full compliance with the city's privacy charter and recommended quarterly fairness checks on route allocation models.
